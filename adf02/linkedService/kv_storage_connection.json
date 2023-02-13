@@ -1,0 +1,10 @@
+{
+	"name": "kv_storage_connection",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-storage-13.vault.azure.net/"
+		}
+	}
+}
